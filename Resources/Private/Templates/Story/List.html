@@ -1,0 +1,9 @@
+<h1>{story.name}</h1>
+
+<p>
+	Story
+	<f:for each="{story.content.body}" as="blok">
+      <div>{blok._uid}</div>
+      <f:render partial="{blok.component}" arguments="{blok: blok}"/>
+    </f:for>
+</p>

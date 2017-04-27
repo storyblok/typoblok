@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-04-27T12:36:22Z" product-name="typoblok">
+		<header/>
+		<body>
+			<trans-unit id="tx_typoblok_domain_model_storyblok">
+				<source>Storyblok</source>
+			</trans-unit>
+			<trans-unit id="tx_typoblok_domain_model_storyblok.description">
+				<source></source>
+			</trans-unit>
+			<trans-unit id="tx_typoblok_domain_model_story">
+				<source>Story</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
